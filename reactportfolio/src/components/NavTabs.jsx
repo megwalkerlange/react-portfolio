@@ -6,7 +6,7 @@ function NavTabs(){
 <ul>
 <li >
     <NavLink
-    to='Home'>Home</NavLink>
+    to='Welcome'>Welcome</NavLink>
 </li>
 <li>
     <NavLink

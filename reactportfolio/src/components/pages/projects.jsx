@@ -6,7 +6,7 @@ function projects(){
 
     return(
 <>
-    <section>ledkfnsldkmfalsmdlakmdmfldnbdlsmfa;ldmfg;ekmgsdg;vmc</section>
+    <section>Please find a selection of my most recent projects below</section>
     
     </>)
 }
