@@ -1,5 +1,112 @@
 #root {
 height: 100%;
 width: 100%;
-  background-color: beige;
+background-color: rgb(255, 255, 255);
+margin: 20px;
+padding: 30px;
+border-radius: 34px;
+}
+
+
+.container-fluid {
+  background-color: rgb(166, 195, 159);
+  border-radius: 40px;
+}
+
+
+
+section {
+
+  padding:50px;
+  margin:30px;
+}
+
+
+.first-name{
+  font-family: 'Playfair Display', serif;
+  font-size: 40pt;
+  padding: 10px;
+  color: rgb(218, 94, 94);
+  display: inline-block;
+
+}
+
+.second-name{
+  font-family: 'Playfair Display', serif;
+  font-size: 40pt;
+  padding: 10px;
+  color: rgb(8, 136, 81);
+  display: inline-block;
+}
+
+p {
+ font-family: 'Tenor Sans', sans-serif;
+font-size: 20pt;
+  padding: 1cqb;
+}
+
+.navbar-brand {
+  font-family: 'Playfair Display', serif;
+  font-size: 30pt;
+
+}
+
+li {
+
+  padding: 30px;
+  font-family: 'Tenor Sans', sans-serif;
+  font-size: 12pt;
+  color: black;
+  }
+
+.card-body {
+padding: 10px;
+}
+
+.card-title {
+  font-family: 'Playfair Display', serif;
+}
+
+.card-text {
+  font-family: 'Tenor Sans', sans-serif;
+  font-size: 14pt;
+}
+
+a{
+  padding:30px;
+  font-family: 'Tenor Sans', sans-serif;
+  color: black !important;
+}
+
+.form-message {
+
+  font-family: 'Tenor Sans', sans-serif;
+  font-size: 12pt;
+}
+
+form {
+
+  padding:30px;
+  margin:20px;
+}
+
+.form-group{
+
+  padding: 20px;
+  margin: 10px; 
+
+}
+
+.btn{
+ background-color: rgb(166, 195, 159) !important; 
+  border-radius: 24px !important;
+  border: 0 !important;
+  margin-left: 30px !important;
+  color: black !important;
+}
+
+label {
+
+  font-family: 'Tenor Sans', sans-serif;
+  font-size: 12pt;
 }
